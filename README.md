@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on coding projects for startups
 - 📫 How to reach me bendix.dawid@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: wann unicorn
 
 <!---
 bendix2003/bendix2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
