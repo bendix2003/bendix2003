@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @bendix2003
-- 👀 I’m interested in communicationnetworks
-- 🌱 I’m currently learning electrical engineering at tum
-- 💞️ I’m looking to collaborate on coding projects for startups
-- 📫 How to reach me bendix.dawid@gmail.com
+### Hi, I'm Bendix 👋
+
+Electrical engineering student at the **Technical University of Munich (TUM)**, focused on
+**wireless communications and signal processing**. Currently based in Granada, Spain.
+
+- 📡 **Bachelor's thesis:** physical-layer secret key generation from OFDM channel estimates,
+  a full simulation chain in MATLAB → [ofdm-secret-key-generation](https://github.com/bendix2003/ofdm-secret-key-generation)
+- 🤖 **Internship:** built LLM agent features in Python (Pydantic AI, RAG) that were shipped to production
+- 🛠️ MATLAB · Python · Git · basics in C and VHDL
+- 🌍 German · English · French · learning Spanish
+- 📫 bendix.dawid1@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
